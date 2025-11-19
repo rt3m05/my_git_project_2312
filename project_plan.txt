@@ -1,2 +1,3 @@
 My project plan
  1. Consolidate project team
+ 2. Collect data
