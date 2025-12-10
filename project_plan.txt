@@ -1,6 +1,6 @@
-My project plan
- 1. Consolidate project team
- 2. Collect data
- 3. Setup environment
-4. Create data dictionary
-5. Setup AWS EC2 instance
+My project plan:
+1. Consolidate project team.
+2. Collect data.
+3. Setup environment.
+4. Create data dictionary.
+5. Setup AWS EC2 instance.
