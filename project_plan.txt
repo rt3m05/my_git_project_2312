@@ -5,3 +5,4 @@ My project plan:
 4. Create data dictionary.
 5. Setup AWS EC2 instance.
 6. Contact with product owner,
+7. Start working!
